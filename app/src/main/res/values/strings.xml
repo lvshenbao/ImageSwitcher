@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ImageSwitcher</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="datepicker_cancle">取消</string>
+    <string name="datepicker_title">请选择时间</string>
+    <string name="datepicker_commit">确定</string>
+    <string name="datepicker_year">年</string>
+    <string name="datepicker_month">月</string>
+    <string name="datepicker_day">日</string>
+    <string name="datepicker_hour">时</string>
+    <string name="datepicker_minute">分</string>
+
+    <string name="explain">
+        \n
+        Home     : 默认5秒 自动轮播。\n
+        Calendar : 图片设置页面 按时间顺序排列。\n
+        EveryDay : 每天图片设置页面 单独设置。\n
+        Setting  : 设置时间间隔页面。\n
+        \n
+    </string>
+</resources>
