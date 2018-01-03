@@ -22,6 +22,7 @@ import com.special.ResideMenu.ResideMenuItem;
 
 public class MainActivity extends BaseActivity implements View.OnClickListener{
 
+
     private ResideMenu resideMenu;
 
     @Override
